@@ -17,6 +17,10 @@ Dataset used was originated from [Common Voice Corpus 4 portuguese dataset](http
 
 For synthesized audio avaliation purposes, it was used 200 phonetically balanced sentences from SEARA, 1994. And their synthesized audios, mel spectrograms and alignment plots are available at [this google drive link](https://drive.google.com/drive/folders/1dNhpliv_3PYlNp2gRjCSizwoDQmjn9OP?usp=sharing)
 
+## Trained models
+
+The trained models can be found at [this google drive link](https://drive.google.com/drive/folders/10t9j4vOLtQbZkGtgbenMExI7luFkA96T?usp=sharing)
+
 ## Steps to synthesize sentences using Rayhane-Mama's Tacotron 2 implementation
 
 First, clone forked repository

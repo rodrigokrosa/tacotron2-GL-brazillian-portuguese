@@ -21,6 +21,10 @@ For synthesized audio avaliation purposes, it was used 200 phonetically balanced
 
 The trained models can be found at [this google drive link](https://drive.google.com/drive/folders/10t9j4vOLtQbZkGtgbenMExI7luFkA96T?usp=sharing)
 
+## Avaliation
+
+The spreadsheet containing the avaliation of the 200 audio samples can be found [here](https://docs.google.com/spreadsheets/d/1NI0xKORUoe-Q-4MpUAdBdbhXGon1JiI91Ea0K2ak2f8/edit?usp=sharing)
+
 ## Steps to synthesize sentences using Rayhane-Mama's Tacotron 2 implementation
 
 First, clone forked repository

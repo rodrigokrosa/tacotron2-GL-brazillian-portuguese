@@ -1,5 +1,7 @@
 # Tacotron 2 for Brazilian Portuguese Using GL as a Vocoder and CommonVoice Dataset
 
+["Conversão Texto-Fala para o Português Brasileiro Utilizando Tacotron 2 com Vocoder Griffin-Lim"](https://biblioteca.sbrt.org.br/articles/2858) Paper published on SBrT 2021.
+
 Repository containing pretrained Tacotron 2 models for brazilian portuguese using open-source implementations from [Rayhane-Mama](https://github.com/Rayhane-mamah/Tacotron-2) and [TensorflowTTS](https://github.com/Rayhane-mamah/Tacotron-2).
 
 ## Forked Tacotron 2 implementations
@@ -139,3 +141,17 @@ For inference, use the following jupyter notebook
 SEARA, I.. Estudo Estatístico dos Fonemas do Português Brasileiro Falado na Capital de Santa Catarina para elaboração de Frases Foneticamente Balanceadas. Dissertação de Mestrado, Universidade Federal de Santa Catarina, 1994.
 
 SHEN, J. et al. Natural TTS Synthesis by Conditioning Wavenet on MEL Spectrogram Predictions. 2018 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Calgary, AB, 2018, pp. 4779-4783.
+
+## BibTeX
+
+```
+@inproceedings{Rosa2021,
+  doi = {10.14209/sbrt.2021.1570727280},
+  url = {https://doi.org/10.14209/sbrt.2021.1570727280},
+  year = {2021},
+  publisher = {Sociedade Brasileira de Telecomunica{\c{c}}{\~{o}}es},
+  author = {Rodrigo K Rosa and Danilo Silva},
+  title = {Convers{\~{a}}o Texto-Fala para o Portugu{\^{e}}s Brasileiro Utilizando Tacotron 2 com Vocoder Griffin-Lim},
+  booktitle = {Anais do {XXXIX} Simp{\'{o}}sio Brasileiro de Telecomunica{\c{c}}{\~{o}}es e Processamento de Sinais}
+}
+```
